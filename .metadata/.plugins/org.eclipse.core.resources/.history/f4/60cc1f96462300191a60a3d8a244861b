@@ -31,10 +31,6 @@ public class Application {
         while(initValue < 10) {
         	System.out.println("The number is now " + initValue++);
         }
-        
-        for(int i = 0; i < 10; i++) {
-        	System.out.println("Loop " + ++i);
-        }
 	}
 
 }
