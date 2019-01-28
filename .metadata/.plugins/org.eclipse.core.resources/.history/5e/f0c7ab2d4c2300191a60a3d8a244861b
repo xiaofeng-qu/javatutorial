@@ -49,7 +49,7 @@ public class Application {
         
 		Scanner input = new Scanner(System.in);
         double PI; 
-        System.out.print("Please input a the PI value: ");
+        System.out.println("Please input a double number.");
         PI = input.nextDouble();
         System.out.println("PI is " + PI + ".");
 	}

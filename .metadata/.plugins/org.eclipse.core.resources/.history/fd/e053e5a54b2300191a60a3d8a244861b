@@ -47,9 +47,8 @@ public class Application {
         	System.out.println("Don't worry. You will do a better job next time.");
         }
         
-		Scanner input = new Scanner(System.in);
+        Scanner input = new Scanner(System.in);
         double PI; 
-        System.out.print("Please input a the PI value: ");
         PI = input.nextDouble();
         System.out.println("PI is " + PI + ".");
 	}
