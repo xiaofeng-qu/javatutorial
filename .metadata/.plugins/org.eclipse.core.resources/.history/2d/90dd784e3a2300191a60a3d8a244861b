@@ -1,0 +1,12 @@
+
+public class Application {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        System.out.println("Hello world!");
+        int myNumber;
+        myNumber = 1024;
+        System.out.println("The number I entered is " + myNumber);
+	}
+
+}
