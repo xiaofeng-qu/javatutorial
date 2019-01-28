@@ -15,8 +15,6 @@ public class Application {
         
         boolean myBoolean = true;
         
-        String myGreeting = "Hello" + ", " + "world!";
-        
         System.out.println("A byte " + myByte + ".");
         System.out.println("A short " + myShort + ".");
         System.out.println("An int " + myNumber + ".");
@@ -25,7 +23,6 @@ public class Application {
         System.out.println("A double " + myDouble + ".");
         System.out.println("A char " + myChar + ".");
         System.out.println("A boolean " + myBoolean + ".");
-        System.out.println("A string " + myGreeting + ".");
 	}
 
 }
