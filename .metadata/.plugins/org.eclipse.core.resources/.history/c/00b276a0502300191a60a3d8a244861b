@@ -55,13 +55,7 @@ public class Application {
                     break;
             case 3: System.out.println("Wednesday");
                     break;
-            default: System.out.println("No such day.");
         }
-        
-        String[] weekday = {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday"};
-        String[] weekend = new String[2];
-        weekend[0] = "Saturday";
-        weekend[1] = "Sunday";
         
 		Scanner input = new Scanner(System.in);
         double PI; 
