@@ -36,7 +36,7 @@ public class Application {
         	System.out.println("Loop " + ++i);
         }
         
-        int grade = 91;
+        int grade = 90;
         if (grade > 90) {
         	System.out.println("You've done a good job!");
         }
